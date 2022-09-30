@@ -1,0 +1,332 @@
+/* Media Screen  */ 
+
+
+/* Media Screen  1199 */
+@media screen and (max-width: 1199px) {
+    
+    .feture-about-sec {
+        padding-top: 70px;
+    }
+    .benner-section .text-box .btn-app {
+        width: 170px;
+        padding: 0 16px;
+    }
+    footer .email-type {
+        margin-top: 19px;
+    }
+   
+
+}
+/* Media Screen End 1199 */
+
+
+/* Media Screen 991 */
+@media screen and (max-width: 991px) {
+    
+   
+    
+    .benner-section .text-box .btn-app {
+        width: 155px;
+        padding: 0 10px;
+        font-size: 12px;
+    }
+    .benner-section .text-box {
+        margin-top: 20px;
+    }
+    .align-items-center {
+        align-items: flex-start !important;
+    }
+    ul.align-items-center{
+        align-items: center !important;
+    }
+    .benner-section .benner-section .ms-5 {
+        margin-left: 1rem !important;
+    }
+    .finder-sec {
+        margin-top: 30px;
+    }
+    .feature-sec .feature-img {
+        position: unset;
+    }
+    .finder-sec .finder-col {
+        height: 300px;
+    }
+    
+    .feature-sec {
+        padding-bottom: 0;
+    }
+    
+    .feature-sec .feature-text-box {
+        padding-top: 10px;
+    }
+    .feature-sec {
+        margin-top: 70px;
+    }
+    
+    .feature-connetion {
+        flex-direction: column;
+       
+    }
+    
+    .feature-sec .ms-5 {
+        margin: 0 !important;
+    }
+    
+    .feature-sec .feature-text-box .simply {
+        padding-bottom: 20px;
+    }   
+    .feature-first-text {height: 400px;}
+
+    .feature-center-text {
+        height: 400px;
+    }
+    .feature-sec .feature-text-box .color-021b26 {
+        font-size: 18px;
+        
+    }
+    .feture-about-sec .feature-about-text {
+        height: 400px;
+    }
+    .collect-sec {
+        margin-top: 70px;
+    }
+    
+    .collect-sec .connet-row .connetin-text p {
+        padding-top: 10px;
+    }
+    
+    .connetin-text h1 {
+        padding-bottom: 20px;
+    }
+    .collection-sec {
+        padding-top: 70px;
+    }
+    
+    .collection-sec .connetin-text p {
+        padding-top: 15px;
+    }
+    footer .subscribe-btn {
+        position: unset;
+        margin-top: 10px;
+        border-radius: 4px;
+    }
+    
+    footer .email-type {
+        border-radius: 4px;
+    }
+    footer .email-type {
+        padding-left: 10px;
+    }
+    .feature-sec .feature-text-box .color-021b26 {
+        font-size: 24px !important;
+       
+    }
+    footer .footer-text ul{
+        top: 0;
+        right: 0;
+    }
+    footer .ul-line-height {
+        margin-top: 30px;
+    }
+    
+    footer .news-text {
+        margin-top: 51px;
+    }
+}
+/* Media Screen End 991 */
+
+
+/* Media Screen 767 */
+@media screen and (max-width: 767px) {
+    .benner-section{
+    
+        background-size: cover;
+    }
+    .benner-section .benner-img {
+        display: none;
+    }
+    
+    .benner-section .btn-area {
+        margin-bottom: 170px;
+    }
+    .benner-section .text-box {
+        padding-top: 40px;
+    }
+    .feature-sec  .feature-img img {
+        height: 400px;
+        object-fit: cover;
+    }
+    .feature-connetion {
+        align-items: start !important;
+    }
+    .feature-first-text {
+        height: 330px;
+        margin-bottom: 30px;
+    }
+    
+    .feature-center-text {
+        height: 330px;
+        margin-bottom: 30px;
+    }
+    
+    .feture-about-sec .feature-about-text {
+        height: 330px;
+    }
+    .feature-sec .feature-text-box .color-021b26 {
+        font-size: 22px !important;
+        margin-top: 30px;
+    }
+    
+    .feture-about-sec {
+        padding-top: 50px;
+    }
+    .feature-sec .feature-connetion {
+        padding-top: 0px;
+    }
+    .collect-sec img {
+        height: 400px;
+        margin-top: 30px;
+    }
+    
+    .collect-sec .connet-row {
+        padding: 50px 0;
+    }
+    .collection-sec img {
+        height: 400px;
+    }
+    
+    .collection-sec {
+        padding-top: 40px;
+    }
+    
+    .connetin-text h1 {
+        margin-top: 30px;
+        padding-bottom: 0;
+    }
+    footer .first-ul {
+        margin-top: 30px;
+    }
+    
+    footer .footer-row {
+        padding: 50px 0 100px;
+    }
+    footer .footer-text ul {
+        position: unset;
+    }
+    .mock-4-img img {
+        margin: 28px auto 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .feature-first-text {
+       
+        padding: 0 15px;
+    }
+    
+    .feature-center-text {
+       
+        padding: 0 15px;
+    }
+    
+    .feture-about-sec .feature-about-text {
+        
+        padding: 0 15px;
+    }
+   
+}
+/* Media Screen End 767 */
+
+
+/* Media Screen 575 */
+@media screen and (max-width: 575px) {
+    
+    
+    
+    
+    .benner-section .btn-area {
+        margin-bottom: 100px;
+    }
+    
+    .finder-sec .finder-text p {
+       
+        padding-top: 10px;
+    }
+    
+    .finder-sec .finders-cols {
+        padding-top: 20px;
+    }
+    
+   
+    .finder-sec .finder-col .connetion-img .icon-1 {
+        padding: 22px 21px;
+    }
+    
+    .finder-sec .finder-col {
+        height: 200px;
+    }
+   
+    .collect-sec .connet-row {
+        padding-top: 0;
+    }
+    
+    .collect-sec {
+        margin-top: 30px;
+    }
+    .connect-collet-tex .connet-text ul>li {
+        font-size: 25px !important;
+    }
+    footer .first-ul {
+        margin: 10px 0 0;
+       
+    }
+    
+    footer .ul-line-height {
+        line-height: 25px;
+    }
+    h1{
+        font-size: 20px !important;
+
+    }
+    p{
+        font-size: 12px !important;
+    }
+    h4{
+        font-size: 17px  !important ;
+    }
+    ul>li{
+        font-size: 12px ;
+    }
+    .benner-section .text-box .color-green {
+        font-size: 12px !important ;
+    }
+    .benner-section .text-box .btn-app  {
+        width: 130px;
+        padding: 0 3px;
+    }
+    .benner-section .text-box .btn-app ul>li {
+       
+        font-size: 10px !important ;
+    }
+    .feature-sec .feature-text-box .color-021b26 {
+        font-size: 16px !important;
+       
+    }
+    .feature-first-text {
+        height: 150px;
+        padding: 0 15px;
+    }
+    
+    .feature-center-text {
+        height: 150px;
+        padding: 0 15px;
+    }
+    
+    .feture-about-sec .feature-about-text {
+        height: 150px;
+        padding: 0 15px;
+    }
+}
+/* Media Screen End 575 */
+
+/* Media Screen End */
